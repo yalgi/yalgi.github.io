@@ -14,7 +14,7 @@ class Connector {
 
 	getData() {
 		let that = this;
-		$.getJSON(YTMDesktopUrl + "/query")
+		$.getJSON("http://localhost:9863/query")
 			.done(function (data) {
 				that.setSettings(data);
 				that.player.updateSongInfo(that.export());
