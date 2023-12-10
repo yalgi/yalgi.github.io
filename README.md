@@ -25,7 +25,7 @@ Widget now works with Youtube Music Dekstop Player (https://ytmdesktop.app/)
 ## Installation steps for OBS (Streamlabs OBS)
 1) Add source
 2) Browser source
-3) URL: https://topik.github.io/youtube-music-obs-widget/
+3) URL: https://yalgi.github.io/youtube-music-obs-widget/
 - in case you want to run widget on your local machine, clone this repository, check `Local file` and link the file `index.html`
 
 ## Parameters
