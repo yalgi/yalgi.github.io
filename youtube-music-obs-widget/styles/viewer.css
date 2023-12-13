@@ -112,7 +112,7 @@ html, body {
 body {
 	color: white;
 	font-weight: 300;
-	font-family: 'YouTube Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'NPSfontBold', sans-serif;
 }
 
 body.isOffline:not(.not-hide-on-pause) {
