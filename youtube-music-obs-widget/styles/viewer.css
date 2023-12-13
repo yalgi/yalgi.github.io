@@ -1,18 +1,10 @@
 @font-face {
-	font-family: 'YouTube Sans';
-	src: url('../assets/YouTube-Sans-Light.woff2') format('woff2'),
-	url('../assets/YouTube-Sans-Light.woff') format('woff');
-	font-weight: 300;
-	font-style: normal;
+    font-family: 'NPSfontBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
 }
 
-@font-face {
-	font-family: 'YouTube Sans';
-	src: url('../assets/YouTube-Sans-Medium.woff2') format('woff2'),
-	url('../assets/YouTube-Sans-Medium.woff') format('woff');
-	font-weight: 500;
-	font-style: normal;
-}
 
 @media screen and (min-aspect-ratio: 64/19) {
 	body .song-info__album-art {
@@ -264,13 +256,14 @@ body.blink-pause.paused .song-info__album-art::after {
 }
 
 .song-info__artist-name {
-	font-weight: 500;
-	font-size: 1.5em;
+	font-weight: 100;
+	font-size: 1em;
 }
 
 .song-info__title {
 	margin-top: 0.2em;
-	font-size: 1em;
+	font-weight: 500;
+	font-size: 2em;
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	overflow: hidden;
