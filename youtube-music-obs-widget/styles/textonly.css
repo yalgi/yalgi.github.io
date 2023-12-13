@@ -14,6 +14,13 @@
 	font-style: normal;
 }
 
+@font-face {
+    font-family: 'NPSfontBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
@@ -21,7 +28,7 @@ html, body {
 	overflow: hidden;
 	background-color: transparent;
 	font-weight: 300;
-	font-family: 'YouTube Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'YouTube Sans', 'Helvetica Neue',,'NPSfontBold' Helvetica, Arial, sans-serif;
 }
 
 body.isOffline {
