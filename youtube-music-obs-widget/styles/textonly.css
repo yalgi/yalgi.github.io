@@ -12,7 +12,7 @@ html, body {
 	overflow: hidden;
 	background-color: transparent;
 	font-weight: 300;
-	font-family: 'NPSfontBold' Helvetica, Arial, sans-serif;
+	font-family: 'NPSfontBold', Helvetica, Arial, sans-serif;
 }
 
 body.isOffline {
