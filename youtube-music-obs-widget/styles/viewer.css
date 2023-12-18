@@ -248,6 +248,7 @@ body.blink-pause.paused .song-info__album-art::after {
 }
 
 .song-info__artist {
+	font-size: 1em;
 
 }
 
