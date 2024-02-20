@@ -1,8 +1,7 @@
 @font-face {
-    font-family: 'NPSfontBold';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
-    font-weight: 800;
-	font-size: 15px;
+    font-family: 'Cafe24Dangdanghae';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.2/Cafe24Dangdanghae.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
 }
 
@@ -14,7 +13,7 @@ html, body {
 	overflow: hidden;
 	background-color: transparent;
 	font-weight: 500;
-	font-family: 'NPSfontBold', Helvetica, Arial, sans-serif;
+	font-family: 'Cafe24Dangdanghae', Helvetica, Arial, sans-serif;
 }
 
 body.isOffline {
