@@ -24,6 +24,6 @@ body.isOffline {
 	display: inline-block;
 }
 
-.song-info__text_info .song-info__title:before {
+.song-info__text_info .song-info__artist:before {
 	content: " - ";
 }
