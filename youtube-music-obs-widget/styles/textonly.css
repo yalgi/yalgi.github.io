@@ -9,9 +9,9 @@ html, body {
 	margin: 0;
 	padding: 0;
 	height: 100%;
-	font-color: white;
+	color: white;
 	overflow: hidden;
-	 width: 1800px;
+	 width: 1000px;
 	background-color: transparent;
 	font-weight: 800;
  	 overflow: hidden; 
